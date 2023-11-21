@@ -1,0 +1,1496 @@
+.home-1,
+.home-1 * {
+  box-sizing: border-box;
+}
+.home-1 {
+  background: #ffffff;
+  width: 1440px;
+  height: 3881px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #ffffff;
+  width: 1440px;
+  height: 92px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-2 {
+  width: 1440px;
+  height: 488px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 92px;
+}
+.logo-1 {
+  width: 214px;
+  height: 50px;
+  position: absolute;
+  left: 220px;
+  top: 21px;
+}
+.home {
+  color: #202020;
+  text-align: left;
+  font: 600 12px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 826px;
+  top: 37px;
+}
+.about {
+  color: #202020;
+  text-align: left;
+  font: 600 12px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 995px;
+  top: 37px;
+}
+.services {
+  color: #202020;
+  text-align: left;
+  font: 600 12px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 900px;
+  top: 37px;
+}
+.contact-us {
+  color: #202020;
+  text-align: left;
+  font: 600 12px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 1075px;
+  top: 37px;
+}
+.help {
+  color: #202020;
+  text-align: left;
+  font: 600 12px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 1191px;
+  top: 37px;
+}
+.rectangle-3 {
+  background: linear-gradient(
+    89.83deg,
+    rgba(15, 15, 15, 1) 0%,
+    rgba(15, 15, 15, 0) 100%
+  );
+  width: 1440px;
+  height: 488px;
+  position: absolute;
+  left: 0px;
+  top: 92px;
+}
+.frame-2 {
+  width: 1440px;
+  height: 384px;
+  position: absolute;
+  left: -3px;
+  top: 3496px;
+}
+.group-67 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-18 {
+  background: #f6f6f6;
+  width: 1440px;
+  height: 338px;
+  position: absolute;
+  left: calc(50% - 713px);
+  bottom: -1px;
+}
+.group-59 {
+  width: 1000px;
+  height: 233px;
+  position: static;
+}
+.group-36 {
+  width: 322px;
+  height: 24px;
+  position: static;
+}
+.copyright-2023-throughline-consulting {
+  color: #202020;
+  text-align: left;
+  font: 500 16px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: calc(50% - 492px);
+  top: 321px;
+}
+.group-45 {
+  width: 798px;
+  height: 143px;
+  position: static;
+}
+.group-40 {
+  width: 166px;
+  height: 126px;
+  position: static;
+}
+.contact-us2 {
+  color: #202020;
+  text-align: left;
+  font: 600 12px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 328px;
+  top: 118px;
+}
+.group-37 {
+  width: 166px;
+  height: 30px;
+  position: static;
+}
+._374-william-s-canning-blvd-fall-river-ma-2721-usa {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 500 10px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 346px;
+  top: 152px;
+  width: 148px;
+}
+.location-pin {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 328px;
+  top: 154px;
+  overflow: visible;
+}
+.group-38 {
+  width: 166px;
+  height: 15px;
+  position: static;
+}
+._78765465989 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 500 10px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 346px;
+  top: 198px;
+  width: 148px;
+}
+.call {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 328px;
+  top: 200px;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-39 {
+  width: 166px;
+  height: 15px;
+  position: static;
+}
+.throughline-234-gmail-com {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 500 10px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 346px;
+  top: 229px;
+  width: 148px;
+}
+.email {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 328px;
+  top: 232px;
+  overflow: visible;
+}
+.group-43 {
+  width: 166px;
+  height: 126px;
+  position: static;
+}
+.contact-us3 {
+  color: #202020;
+  text-align: left;
+  font: 600 12px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 640px;
+  top: 118px;
+}
+._374-william-s-canning-blvd-fall-river-ma-2721-usa2 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 500 10px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 658px;
+  top: 152px;
+  width: 148px;
+}
+.location-pin2 {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 640px;
+  top: 154px;
+  overflow: visible;
+}
+._787654659892 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 500 10px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 658px;
+  top: 198px;
+  width: 148px;
+}
+.call2 {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 640px;
+  top: 200px;
+  overflow: hidden;
+}
+.group3 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.throughline-234-gmail-com2 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 500 10px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 658px;
+  top: 229px;
+  width: 148px;
+}
+.email2 {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 640px;
+  top: 232px;
+  overflow: visible;
+}
+.group-44 {
+  width: 166px;
+  height: 126px;
+  position: static;
+}
+.contact-us4 {
+  color: #202020;
+  text-align: left;
+  font: 600 12px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 960px;
+  top: 112px;
+}
+._374-william-s-canning-blvd-fall-river-ma-2721-usa3 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 500 10px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 978px;
+  top: 146px;
+  width: 148px;
+}
+.location-pin3 {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 960px;
+  top: 148px;
+  overflow: visible;
+}
+._787654659893 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 500 10px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 978px;
+  top: 192px;
+  width: 148px;
+}
+.call3 {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 960px;
+  top: 194px;
+  overflow: hidden;
+}
+.group5 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.throughline-234-gmail-com3 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font: 500 10px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 978px;
+  top: 223px;
+  width: 148px;
+}
+.email3 {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 960px;
+  top: 226px;
+  overflow: visible;
+}
+.rectangle-19 {
+  background: rgba(32, 32, 32, 0.05);
+  border-radius: 50px;
+  width: 2px;
+  height: 143px;
+  position: absolute;
+  left: 563px;
+  top: 112px;
+}
+.rectangle-21 {
+  background: rgba(32, 32, 32, 0.05);
+  border-radius: 50px;
+  width: 2px;
+  height: 143px;
+  position: absolute;
+  left: 875px;
+  top: 112px;
+}
+.rectangle-20 {
+  background: rgba(32, 32, 32, 0.05);
+  border-radius: 70px;
+  width: 1000px;
+  height: 2px;
+  position: absolute;
+  left: 227px;
+  top: 292px;
+}
+.group-42 {
+  width: 61px;
+  height: 24px;
+  position: static;
+}
+.policy {
+  color: #202020;
+  text-align: left;
+  font: 500 16px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: calc(50% - -280px);
+  top: 321px;
+}
+.ellipse-3 {
+  background: #202020;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 987px;
+  top: 331px;
+}
+.group-41 {
+  width: 163px;
+  height: 24px;
+  position: static;
+}
+.terms-condition {
+  color: #202020;
+  text-align: left;
+  font: 500 16px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: calc(50% - -357px);
+  top: 321px;
+}
+.ellipse-4 {
+  background: #202020;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 1064px;
+  top: 331px;
+}
+.group-116 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-24 {
+  background: #1b83e3;
+  width: 1440px;
+  height: 152px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 3383px;
+}
+.group-84 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-29 {
+  background: #1b83e3;
+  border-radius: 130px;
+  width: 476px;
+  height: 54px;
+  position: absolute;
+  left: calc(50% - 250px);
+  top: 3515px;
+}
+.rectangle-31 {
+  background: #ffffff;
+  border-radius: 130px;
+  width: 377px;
+  height: 40px;
+  position: absolute;
+  left: calc(50% - 244px);
+  top: 3522px;
+}
+.rectangle-30 {
+  background: #ffffff;
+  border-radius: 130px;
+  width: 50px;
+  height: 48px;
+  position: absolute;
+  left: calc(50% - -173px);
+  top: 3518px;
+}
+.drop-your-mail-id-here {
+  color: rgba(32, 32, 32, 0.2);
+  text-align: left;
+  font: 500 10px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 497px;
+  top: 3534px;
+  width: 122px;
+  height: 16px;
+}
+.back-1 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 909px;
+  top: 3533px;
+  overflow: visible;
+}
+.group-49 {
+  position: absolute;
+  inset: 0;
+}
+.group-4 {
+  width: 480px;
+  height: 148px;
+  position: static;
+}
+.we-are-committed-to-helping-you-be-better {
+  color: #ffffff;
+  text-align: left;
+  font: 400 32px "-", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 231px;
+}
+.we-are-committed-to-helping-you-be-better-span {
+  color: #ffffff;
+  font: 400 32px "Poppins-Regular", sans-serif;
+}
+.we-are-committed-to-helping-you-be-better-span2 {
+  color: #ffffff;
+  font: 600 32px "Poppins-SemiBold", sans-serif;
+}
+.thoughtline-consulting-is-an-organizational-development-solutions-partner-to-some-of-the-worlds-most-admired-brands {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: left;
+  font: 400 12px "Poppins-Regular", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 343px;
+  width: 383px;
+}
+.group-2 {
+  width: 150.63px;
+  height: 231.51px;
+  position: static;
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 6px;
+  width: 150.63px;
+  height: 42px;
+  position: absolute;
+  left: 220px;
+  top: 399px;
+}
+.group-3 {
+  width: 84px;
+  height: 219.51px;
+  position: static;
+}
+.vector14 {
+  height: auto;
+  position: absolute;
+  right: 76.6%;
+  left: 23.06%;
+  width: 0.35%;
+  bottom: 83.75%;
+  top: 15.86%;
+  height: 0.38%;
+  overflow: visible;
+}
+.get-start {
+  color: #202020;
+  text-align: left;
+  font: 600 12px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 253px;
+  top: 411px;
+  width: 65px;
+}
+.some-of-our-client-partners {
+  color: #202020;
+  text-align: left;
+  font: 600 22px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 564px;
+  top: 2468px;
+}
+.our-approach {
+  color: #202020;
+  text-align: left;
+  font: 600 22px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 641px;
+  top: 2692px;
+  width: 158px;
+}
+.group-52 {
+  position: absolute;
+  inset: 0;
+}
+.screenshot-2023-10-31-at-6-08-1 {
+  width: 848px;
+  height: 103px;
+  position: absolute;
+  left: 821px;
+  top: 2541px;
+}
+.screenshot-2023-10-31-at-6-08-2 {
+  width: 830px;
+  height: 90px;
+  position: absolute;
+  left: -4px;
+  top: 2548px;
+}
+.rectangle-22 {
+  width: 530px;
+  height: 64px;
+  position: absolute;
+  left: 510px;
+  top: 2561px;
+}
+.screenshot-2023-10-31-at-6-09-1 {
+  width: 864px;
+  height: 93px;
+  position: absolute;
+  left: 1661px;
+  top: 2546px;
+}
+.rectangle-15 {
+  background: #fbfbfb;
+  width: 1440px;
+  height: 573px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 580px;
+}
+.rectangle-32 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 1000px;
+  height: 387px;
+  position: absolute;
+  left: calc(50% - 500px);
+  top: 706px;
+}
+.rectangle-34 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 1000px;
+  height: 387px;
+  position: absolute;
+  left: calc(50% - 500px);
+  top: 706px;
+}
+.rectangle-222 {
+  background: #1b83e3;
+  width: 1440px;
+  height: 118px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 1153px;
+}
+.who-we-are {
+  color: #202020;
+  text-align: left;
+  font: 600 26px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 91px);
+  top: 620px;
+}
+.group-80 {
+  position: absolute;
+  inset: 0;
+}
+.group-79 {
+  width: 434px;
+  height: 237px;
+  position: static;
+}
+.we-are {
+  color: #202020;
+  text-align: left;
+  font: 600 24px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 437px);
+  top: 781px;
+  width: 108px;
+  height: 39px;
+}
+.thoughtline-delivers-actionable-custom-learning-solutions-to-boost-employee-performance-we-are-a-performance-improvement-solutions-partner-to-some-of-the-worlds-most-admired-brands-we-enable-individuals-and-organizations-to-perform-at-their-highest-potential-whether-you-need-to-improve-your-team-s-communication-across-geographies-solve-problems-manage-self-or-simply-work-better-in-teams-thoughtline-can-help-with-13-years-in-designing-creating-and-facilitating-custom-learning-solutions-for-corporate-organizations-we-are-dedicated-to-creating-innovative-learning-experiences-that-can-help-people-thrive-in-the-workforce-by-accelerating-performance {
+  color: rgba(32, 32, 32, 0.5);
+  text-align: left;
+  font: 500 12px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 283px;
+  top: 836px;
+  width: 434px;
+  height: 182px;
+}
+.rectangle-17 {
+  border-radius: 10px;
+  width: 383px;
+  height: 284px;
+  position: absolute;
+  left: 774px;
+  top: 758px;
+}
+.learner-profile {
+  color: #202020;
+  text-align: left;
+  font: 600 26px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 95px);
+  top: 1317px;
+}
+.group-54 {
+  position: absolute;
+  inset: 0;
+}
+.group-19 {
+  width: 189px;
+  height: 48px;
+  position: static;
+}
+.group-14 {
+  width: 133px;
+  height: 48px;
+  position: static;
+}
+.humans-impacted {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 500 14px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 317px;
+  top: 1215px;
+}
+._5000 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 18px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 317px;
+  top: 1188px;
+}
+.people {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 261px;
+  top: 1192px;
+  overflow: visible;
+}
+.group-16 {
+  width: 160px;
+  height: 48px;
+  position: static;
+}
+.group-15 {
+  width: 104px;
+  height: 48px;
+  position: static;
+}
+._25 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 18px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 698px;
+  top: 1188px;
+}
+.client-partners {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 500 14px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 698px;
+  top: 1215px;
+}
+.deal {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 642px;
+  top: 1192px;
+  overflow: hidden;
+}
+.group7 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 7.8%;
+  top: 7.8%;
+  height: 84.4%;
+  overflow: visible;
+}
+.group-18 {
+  width: 126px;
+  height: 48px;
+  position: static;
+}
+.group-17 {
+  width: 70px;
+  height: 48px;
+  position: static;
+}
+._10 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 18px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 1043px;
+  top: 1188px;
+}
+.industries {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 500 14px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 1043px;
+  top: 1215px;
+}
+.coach {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 987px;
+  top: 1192px;
+  overflow: hidden;
+}
+.group8 {
+  height: auto;
+  position: absolute;
+  right: 7.91%;
+  left: -10.84%;
+  width: 102.92%;
+  bottom: -124.19%;
+  top: 8.01%;
+  height: 216.19%;
+  overflow: visible;
+}
+.group-82 {
+  position: absolute;
+  inset: 0;
+}
+.industries2 {
+  color: #202020;
+  text-align: center;
+  font: 600 26px "Poppins-SemiBold", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 75px);
+  top: 2130px;
+}
+.we-have-expertise-working-with-over-10-industries-manufacturing-accounts-for-11-of-our-industry-profile {
+  color: rgba(32, 32, 32, 0.5);
+  text-align: center;
+  font: 500 14px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: calc(50% - 234px);
+  top: 2185px;
+  width: 467px;
+  height: 43px;
+}
+.virtual-and-in-person-learning-programs-managers-account-for-69-of-our-audience-profile {
+  color: rgba(32, 32, 32, 0.5);
+  text-align: center;
+  font: 500 14px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: calc(50% - 234px);
+  top: 1372px;
+  width: 467px;
+  height: 43px;
+}
+.rectangle-33 {
+  background: #fbfbfb;
+  width: 1440px;
+  height: 2px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 2104px;
+}
+.group-86 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-242 {
+  background: #1b83e3;
+  width: 1440px;
+  height: 152px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 2268px;
+}
+.group-58 {
+  width: 711px;
+  height: 70px;
+  position: static;
+}
+.group-57 {
+  width: 711px;
+  height: 70px;
+  position: static;
+}
+.group-56 {
+  width: 631px;
+  height: 24px;
+  position: static;
+}
+.it {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 321px);
+  top: 2309px;
+}
+.healthcare {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 260px);
+  top: 2309px;
+}
+.manufacturing {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 122px);
+  top: 2309px;
+}
+.ites {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -47px);
+  top: 2309px;
+}
+.pharma {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -126px);
+  top: 2309px;
+}
+.telecom {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -239px);
+  top: 2309px;
+}
+.group-55 {
+  width: 711px;
+  height: 24px;
+  position: static;
+}
+.petroleum {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 356px);
+  top: 2355px;
+}
+.bfsi {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 224px);
+  top: 2355px;
+}
+.construction {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 144px);
+  top: 2355px;
+}
+.services2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -286px);
+  top: 2355px;
+}
+.publishing {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -153px);
+  top: 2355px;
+}
+.automotive {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -10px);
+  top: 2355px;
+}
+.ellipse-5 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 432px;
+  top: 2317px;
+}
+.ellipse-6 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 571px;
+  top: 2317px;
+}
+.ellipse-7 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 742px;
+  top: 2317px;
+}
+.ellipse-8 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 820px;
+  top: 2317px;
+}
+.ellipse-9 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 933px;
+  top: 2317px;
+}
+.ellipse-10 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 978px;
+  top: 2364px;
+}
+.ellipse-11 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 846px;
+  top: 2364px;
+}
+.ellipse-12 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 703px;
+  top: 2364px;
+}
+.ellipse-13 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 547px;
+  top: 2364px;
+}
+.ellipse-14 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 466px;
+  top: 2364px;
+}
+.group-115 {
+  position: absolute;
+  inset: 0;
+}
+.group-862 {
+  width: 1440px;
+  height: 152px;
+  position: static;
+}
+.rectangle-243 {
+  background: #1b83e3;
+  width: 1440px;
+  height: 152px;
+  position: absolute;
+  left: calc(50% - 710px);
+  top: 2906px;
+}
+.it2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 311px);
+  top: 2947px;
+}
+.healthcare2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 250px);
+  top: 2947px;
+}
+.manufacturing2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 112px);
+  top: 2947px;
+}
+.ites2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -57px);
+  top: 2947px;
+}
+.pharma2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -136px);
+  top: 2947px;
+}
+.telecom2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -249px);
+  top: 2947px;
+}
+.petroleum2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 346px);
+  top: 2993px;
+}
+.bfsi2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 214px);
+  top: 2993px;
+}
+.construction2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - 134px);
+  top: 2993px;
+}
+.services3 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -296px);
+  top: 2993px;
+}
+.publishing2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -163px);
+  top: 2993px;
+}
+.automotive2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 16px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: calc(50% - -20px);
+  top: 2993px;
+}
+.ellipse-52 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 442px;
+  top: 2955px;
+}
+.ellipse-62 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 581px;
+  top: 2955px;
+}
+.ellipse-72 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 752px;
+  top: 2955px;
+}
+.ellipse-82 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 830px;
+  top: 2955px;
+}
+.ellipse-92 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 943px;
+  top: 2955px;
+}
+.ellipse-102 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 988px;
+  top: 3002px;
+}
+.ellipse-112 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 856px;
+  top: 3002px;
+}
+.ellipse-122 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 713px;
+  top: 3002px;
+}
+.ellipse-132 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 557px;
+  top: 3002px;
+}
+.ellipse-142 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  left: 476px;
+  top: 3002px;
+}
+.text {
+  color: #000000;
+  text-align: left;
+  font: 500 14px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 100px;
+  top: 2102px;
+}
+.screenshot-2023-11-20-at-3-48-1 {
+  width: 693px;
+  height: 601px;
+  position: absolute;
+  left: 380px;
+  top: 1469px;
+}
+.group-114 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-36 {
+  width: 1434px;
+  height: 573px;
+  position: absolute;
+  left: calc(50% - 717px);
+  top: 2810px;
+  overflow: visible;
+}
+.group-120 {
+  width: 700px;
+  height: 400px;
+  position: static;
+}
+.rectangle-37 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 700px;
+  height: 400px;
+  position: absolute;
+  left: calc(50% - 350px);
+  top: 2899px;
+}
+.rectangle-40 {
+  background: #d9d9d9;
+  border-radius: 8px;
+  width: 200px;
+  height: 48.2px;
+  position: absolute;
+  left: 431px;
+  top: 3065.83px;
+}
+.rectangle-46 {
+  background: #d9d9d9;
+  border-radius: 8px;
+  width: 200px;
+  height: 48.2px;
+  position: absolute;
+  left: 431px;
+  top: 2926.6px;
+}
+.design {
+  color: #000000;
+  text-align: center;
+  font: 600 18px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 436px;
+  top: 3070px;
+  width: 195px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.analysis {
+  color: #000000;
+  text-align: center;
+  font: 600 18px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 437px;
+  top: 2931px;
+  width: 195px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-41 {
+  background: #d9d9d9;
+  border-radius: 8px;
+  width: 200px;
+  height: 48.2px;
+  position: absolute;
+  left: 429px;
+  top: 3205.07px;
+}
+.delivery {
+  color: #000000;
+  text-align: center;
+  font: 600 18px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 434px;
+  top: 3209px;
+  width: 195px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 282.76px;
+  height: 0px;
+  position: absolute;
+  left: 406.96px;
+  top: 2951.23px;
+  transform-origin: 0 0;
+  transform: rotate(90.396deg) scale(1, 1);
+}
+.ellipse-19 {
+  background: #1235b0;
+  border-radius: 50%;
+  width: 25px;
+  height: 26.78px;
+  position: absolute;
+  left: 395px;
+  top: 3215.78px;
+}
+.ellipse-18 {
+  background: #1b83e3;
+  border-radius: 50%;
+  width: 25px;
+  height: 26.78px;
+  position: absolute;
+  left: 394px;
+  top: 3076.54px;
+}
+.ellipse-17 {
+  background: #69bce0;
+  border-radius: 50%;
+  width: 25px;
+  height: 26.78px;
+  position: absolute;
+  left: 395px;
+  top: 2937.31px;
+}
+.our-solutions-implementation-process-goes-through-a-seamless-step-by-step-methodology-conducted-in-3-stages {
+  color: rgba(32, 32, 32, 0.5);
+  text-align: center;
+  font: 500 14px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: calc(50% - 246px);
+  top: 2741px;
+  width: 469px;
+  height: 43px;
+}
+.first-we-get-to-understand-your-challenges-and-analyze-if-they-are-an-organizational-issue-performance-issue-or-a-motivational-issue-through-need-analysis-andpre-course-assessments-we-will-accurately-identify-learning-needs-andset-objectives-in-line-with-your-organization-s-goals {
+  color: #000000;
+  text-align: left;
+  font: 500 12px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 656px;
+  top: 2919px;
+  width: 396px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.we-will-work-with-you-to-develop-a-customized-program-that-meets-your-specific-needs-we-will-design-a-learning-journey-that-is-engaging-and-hands-on-and-targeted-at-achieving-the-intended-objectives-within-a-scheduled-time-frame {
+  color: #000000;
+  text-align: left;
+  font: 500 12px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 656px;
+  top: 3049px;
+  width: 396px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.we-are-happy-to-chat-about-how-we-can-work-together {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Poppins-SemiBold", sans-serif;
+  position: absolute;
+  left: 417px;
+  top: 3432px;
+  width: 625px;
+  height: 53px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.we-deliver-solutions-that-are-on-target-and-impactful-you-can-schedule-programs-when-you-need-them-we-offer-flexible-delivery-modes-in-person-blended-or-online-all-our-programs-are-delivered-by-experienced-and-qualifies-trainers {
+  color: #000000;
+  text-align: left;
+  font: 500 12px "Poppins-Medium", sans-serif;
+  position: absolute;
+  left: 656px;
+  top: 3177px;
+  width: 396px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
